@@ -10,6 +10,6 @@ To run,
 
 ```sh
 cargo run
-```.
+```
 
 Make sure you only have 1 webcam enabled!
