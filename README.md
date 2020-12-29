@@ -1,4 +1,4 @@
-This is a clone of a TikTok Timewarp filter - example [here](https://www.youtube.com/watch?v=Pi2MaPZLFcc).
+This is a clone of the TikTok Timewarp filter - example [here](https://www.youtube.com/watch?v=Pi2MaPZLFcc).
 
 Works on Windows only for now.
 
